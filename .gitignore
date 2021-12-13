@@ -1,5 +1,12 @@
 Library/
 Library/*
+/Library/
+/Library/*
 Logs/
 Logs/*
+/Logs/
+/Logs/*
 Temp/
+Temp/*
+/Temp/
+/Temp/*
